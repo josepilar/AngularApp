@@ -1,2 +1,2 @@
-# AngularApp
-Simple Angular testing application
+# Node server - Express 4
+Simple Node server using express 4

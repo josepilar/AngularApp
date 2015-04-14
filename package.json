@@ -1,15 +1,15 @@
 {
-  "name": "AngularApp",
-  "version": "0.0.1",
-  "description": "Simple Angular test application",
-  "main": "angularApp.js",
+  "name": "ExpressSeedServer",
+  "version": "1.0.0",
+  "description": "Simple Node server seed using express 4",
+  "main": "app.js",
   "scripts": {
-    "start":"node angularApp.js",
+    "start":"node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/josepilar/AngularApp"
+    "url": "https://github.com/josepilar/Node-Express-Base-Server"
   },
   "keywords": [
     "Angular",
@@ -18,7 +18,7 @@
   "author": "Jose-Pilar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/josepilar/AngularApp/issues"
+    "url": "https://github.com/josepilar/Node-Express-Base-Server/issues"
   },
 
   "dependencies": {
